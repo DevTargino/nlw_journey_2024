@@ -21,12 +21,14 @@ Plan.er (Front-End)
 
 </p>
 
+
 <p align="center">
 
 <a href="#Funcionalidades">Funcionalidades</a> •
 <a href="#Tecnologias">Tecnologias</a> •
 <a href="#Créditos">Creditos</a> •
-<a href="#licença">Licença</a>
+<a href="#licença">Licença</a> 
+
 </p>
 
 
@@ -61,6 +63,6 @@ todos os direitos são da Rocketseat, esse é um projeto de estudos.
 ---
 
 > Targino.Dev  · 
-GitHub @github.com/DevTargino  · 
+GitHub <a> @github.com/DevTargino </a>  · 
 Email: targino.dev@gmail.com
 >
